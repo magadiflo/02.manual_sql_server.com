@@ -1,9 +1,195 @@
-<?xml version="1.0" encoding="utf-8"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SqlWorkbenchSqlProject">
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="02-seccion">
   <Items>
-    <LogicalFolder Name="Connections" Type="2" />
-    <LogicalFolder Name="Queries" Type="0" />
-    <LogicalFolder Name="Miscellaneous" Type="3" />
-
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.select_teoría.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.select_teoría.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.select_alias.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.select_alias.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.operadores_sql_server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.operadores_sql_server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.consultas_filtrado_registros.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.consultas_filtrado_registros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.where_filtrado_registros.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.where_filtrado_registros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.campos_calculados_consultas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.campos_calculados_consultas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.ordenamientos_order_by.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.ordenamientos_order_by.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.offset_fetch_next.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.offset_fetch_next.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09.usando_join.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09.usando_join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10.comparando_case_y_join.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10.comparando_case_y_join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11.consultas_opciones.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11.consultas_opciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12.select_into_en_filegroup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12.select_into_en_filegroup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13.cláusula_union.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13.cláusula_union.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14.fechas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14.fechas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15.uso_de_with_ties.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15.uso_de_with_ties.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16.for_xml_path.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16.for_xml_path.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17.group_by_filtro_having.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17.group_by_filtro_having.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18.grouping_sets.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18.grouping_sets.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19.over_partition_by.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>19.over_partition_by.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20.cube_rollup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>20.cube_rollup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21.common_table_expression_CTE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>21.common_table_expression_CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22.funciones_usuario_valores_tabla.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>22.funciones_usuario_valores_tabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23.subconsultas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>23.subconsultas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24.subconsultas_casos_practicos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24.subconsultas_casos_practicos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25.subconsultas_casos_practicos_2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>25.subconsultas_casos_practicos_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26.subconsultas_casos_practicos_3.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>26.subconsultas_casos_practicos_3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27.subconsultas_tabla_derivada.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>27.subconsultas_tabla_derivada.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28.subconsultas_correlacionadas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>28.subconsultas_correlacionadas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29.cross_apply_outer_apply.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>29.cross_apply_outer_apply.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30.comparando_joins_subconsultas_fdu.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30.comparando_joins_subconsultas_fdu.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
   </Items>
 </SqlWorkbenchSqlProject>

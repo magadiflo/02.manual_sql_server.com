@@ -1,9 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SqlWorkbenchSqlProject">
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="04-seccion">
   <Items>
-    <LogicalFolder Name="Connections" Type="2" />
-    <LogicalFolder Name="Queries" Type="0" />
-    <LogicalFolder Name="Miscellaneous" Type="3" />
-
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.cursores.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.cursores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.cursores_en_store_procedure_01.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.cursores_en_store_procedure_01.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.cursores_en_store_procedure_02.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.cursores_en_store_procedure_02.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.cursores_y_pivot.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.cursores_y_pivot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.cursores_casos_prácticos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.cursores_casos_prácticos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.cursores_variable_tipo_tabla.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.cursores_variable_tipo_tabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.cursores_ejercicios.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.cursores_ejercicios.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.cursores_con_variables_tipos_tabla.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.cursores_con_variables_tipos_tabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09.triggers_dml.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09.triggers_dml.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10.triggers_ddl.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10.triggers_ddl.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11.triggers_logon.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11.triggers_logon.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12.triggers_instead_of.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12.triggers_instead_of.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13.triggers_activar_desactivar.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13.triggers_activar_desactivar.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14.triggers_encriptación.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14.triggers_encriptación.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15.triggers_historial_eliminación.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15.triggers_historial_eliminación.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16.triggers_historial_cambios.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16.triggers_historial_cambios.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17.merge.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17.merge.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18.merge_select.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18.merge_select.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19.merge_en_graph_tables.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>19.merge_en_graph_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19.merge_output.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>19.merge_output.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20.funciones_de_servidor.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>20.funciones_de_servidor.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
   </Items>
 </SqlWorkbenchSqlProject>

@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="05-seccion">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-EGDL8Q6\SQLEXPRESS:sa">
+          <Created>2024-01-23T20:01:59.4506196-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-EGDL8Q6\SQLEXPRESS</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.seguridad_funciones_de_servidor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>01.seguridad_funciones_de_servidor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.inicio_sesión_logins.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.inicio_sesión_logins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.funciones_de_base_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.funciones_de_base_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.usuarios_de_base_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.usuarios_de_base_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.roles_de_aplicacion.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.roles_de_aplicacion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.credenciales.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.credenciales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.credenciales_modificación_eliminación.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.credenciales_modificación_eliminación.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.certificados.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.certificados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09.asignar_permisos_grant.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09.asignar_permisos_grant.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10.denegar_permisos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10.denegar_permisos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11.planes_mantenimiento.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11.planes_mantenimiento.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12.tipos_copias_seguridad_bd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12.tipos_copias_seguridad_bd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13.backup_de_una_bd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13.backup_de_una_bd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14.restore_de_bd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14.restore_de_bd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15.encriptado_de_copias_de_seguridad.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15.encriptado_de_copias_de_seguridad.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16.DBCC_categoría_informativas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16.DBCC_categoría_informativas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17.DBCC_categoría_mantenimiento.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17.DBCC_categoría_mantenimiento.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18.DBCC_categoría_validación.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18.DBCC_categoría_validación.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19.DBCC_categoría_varios.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>19.DBCC_categoría_varios.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
