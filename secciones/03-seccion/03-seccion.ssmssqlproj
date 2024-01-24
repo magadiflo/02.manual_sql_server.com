@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="03-seccion">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-EGDL8Q6\SQLEXPRESS:sa">
+          <Created>2024-01-23T19:55:16.1224116-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-EGDL8Q6\SQLEXPRESS</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.funciones_cadena.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>01.funciones_cadena.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.funciones_fecha_hora.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.funciones_fecha_hora.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.funciones_trim_concat_ws_string_agg.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.funciones_trim_concat_ws_string_agg.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.funciones_string_split.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.funciones_string_split.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.funciones_first_last_lag_lead_value.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.funciones_first_last_lag_lead_value.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.función_coalesce.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.función_coalesce.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.funciones_matemáticas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.funciones_matemáticas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.funciones_agregado.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.funciones_agregado.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09.funciones_conversión_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09.funciones_conversión_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10.funciones_configuración.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10.funciones_configuración.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11.funciones_control_errores.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11.funciones_control_errores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12.funciones_de_cursor.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12.funciones_de_cursor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13.stored_procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>13.stored_procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14.stored_procedure_ejercicios.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14.stored_procedure_ejercicios.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15.stored_procedure_encriptar.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15.stored_procedure_encriptar.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16.stored_procedure_union.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16.stored_procedure_union.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17.stored_procedure_parametros_salida.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17.stored_procedure_parametros_salida.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18.stored_procedure_firmar_sp_con_certificado_sqlserver.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18.stored_procedure_firmar_sp_con_certificado_sqlserver.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19.funciones_definidas_usuario_fdu.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>19.funciones_definidas_usuario_fdu.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20.funciones_definidas_usuario_ejercicio.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>20.funciones_definidas_usuario_ejercicio.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21.funciones_definidas_usuario_ejemplo.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>21.funciones_definidas_usuario_ejemplo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22.funciones_definidas_usuario_valores_tabla.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>22.funciones_definidas_usuario_valores_tabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23.funciones_definidas_usuario_inserción.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>23.funciones_definidas_usuario_inserción.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24.snippets_sql_server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24.snippets_sql_server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25.variables_en_SQLServer.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>25.variables_en_SQLServer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26.variables_tipo_tabla.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>26.variables_tipo_tabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27.estructura_if_SQLServer.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>27.estructura_if_SQLServer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28.estructura_repetitiva_while.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>28.estructura_repetitiva_while.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29.variables_xml.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>29.variables_xml.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30.leer_campos_xml.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30.leer_campos_xml.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31.estructura_case.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>31.estructura_case.sql</FullPath>
+        </FileNode>
+        <FileNode Name="32.common_table_expressions_CTE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>32.common_table_expressions_CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="33.ejercicios_CTE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>33.ejercicios_CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="34.controlando_errores.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>34.controlando_errores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="35.transacciones.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>35.transacciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="36.pivot.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>36.pivot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="37.pivot_y_stored_procedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>37.pivot_y_stored_procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="38.unpivot.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>38.unpivot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="39.sinónimos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>39.sinónimos.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
