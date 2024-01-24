@@ -26,21 +26,21 @@
           <FullPath>00.envia_correo_managament.sql</FullPath>
         </FileNode>
         <FileNode Name="00.enviando_email_sqlserver_express.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>00.enviando_email_sqlserver_express.sql</FullPath>
         </FileNode>
         <FileNode Name="00.enviar_correo_desde_SQL SERVER EXPRESS.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>00.enviar_correo_desde_SQL SERVER EXPRESS.sql</FullPath>
         </FileNode>
         <FileNode Name="00.enviar_correo_solmar.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>00.enviar_correo_solmar.sql</FullPath>
         </FileNode>
         <FileNode Name="00.envio_correo.sql">
@@ -50,21 +50,21 @@
           <FullPath>00.envio_correo.sql</FullPath>
         </FileNode>
         <FileNode Name="01.base_datos_sistema_sql_server.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>01.base_datos_sistema_sql_server.sql</FullPath>
         </FileNode>
         <FileNode Name="02.tipos_archivos_base_datos.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>02.tipos_archivos_base_datos.sql</FullPath>
         </FileNode>
         <FileNode Name="03.create_databases.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>03.create_databases.sql</FullPath>
         </FileNode>
         <FileNode Name="04.crear_bases_datos_ejemplos.sql">
@@ -116,9 +116,9 @@
           <FullPath>11.escenario_disco_duro_lleno.sql</FullPath>
         </FileNode>
         <FileNode Name="12.esquemas.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>12.esquemas.sql</FullPath>
         </FileNode>
         <FileNode Name="13.tipos_de_datos.sql">
@@ -242,9 +242,9 @@
           <FullPath>32.dynamic_data_masking.sql</FullPath>
         </FileNode>
         <FileNode Name="33.identity.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>33.identity.sql</FullPath>
         </FileNode>
         <FileNode Name="34.identity_caso_practico.sql">
@@ -254,9 +254,9 @@
           <FullPath>34.identity_caso_practico.sql</FullPath>
         </FileNode>
         <FileNode Name="35.tablas_temporales.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>35.tablas_temporales.sql</FullPath>
         </FileNode>
         <FileNode Name="36.file_stream_file_table.sql">
