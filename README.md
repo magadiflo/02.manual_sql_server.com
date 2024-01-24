@@ -1,4 +1,4 @@
-# [Manual SQL Server](www.manualsqlserver.com)
+# [Manual SQL Server](https://manualsqlserver.com/)
 
 --- 
 

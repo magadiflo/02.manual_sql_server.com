@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="01-seccion">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-EGDL8Q6\SQLEXPRESS:sa">
+          <Created>2024-01-23T19:42:51.222936-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-EGDL8Q6\SQLEXPRESS</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="00.envia_correo_managament.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>00.envia_correo_managament.sql</FullPath>
+        </FileNode>
+        <FileNode Name="00.enviando_email_sqlserver_express.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>00.enviando_email_sqlserver_express.sql</FullPath>
+        </FileNode>
+        <FileNode Name="00.enviar_correo_desde_SQL SERVER EXPRESS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>00.enviar_correo_desde_SQL SERVER EXPRESS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="00.enviar_correo_solmar.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>00.enviar_correo_solmar.sql</FullPath>
+        </FileNode>
+        <FileNode Name="00.envio_correo.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>00.envio_correo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01.base_datos_sistema_sql_server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.base_datos_sistema_sql_server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.tipos_archivos_base_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.tipos_archivos_base_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.create_databases.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.create_databases.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.crear_bases_datos_ejemplos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.crear_bases_datos_ejemplos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.adjuntar_base_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.adjuntar_base_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.instantáneas_bd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.instantáneas_bd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.tamaño_bases_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.tamaño_bases_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.modificar_base_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.modificar_base_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09.modificar_archivos_bd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09.modificar_archivos_bd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10.ejercicios_crea_modifica_adjunta_bd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10.ejercicios_crea_modifica_adjunta_bd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11.escenario_disco_duro_lleno.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11.escenario_disco_duro_lleno.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12.esquemas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12.esquemas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13.tipos_de_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13.tipos_de_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14.tipos_datos_usuario.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14.tipos_datos_usuario.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15.tipos_datos_usuario_ejercicios.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15.tipos_datos_usuario_ejercicios.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16.tipo_datos_usuario_formato_tabla.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16.tipo_datos_usuario_formato_tabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17.create_table_teoría.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17.create_table_teoría.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18.create_table_ejercicios.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18.create_table_ejercicios.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19.tamaño_tablas_sql_server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>19.tamaño_tablas_sql_server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20.usando_restricciones.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>20.usando_restricciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21.foreign_key_sql_server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>21.foreign_key_sql_server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22.tablas_datos_xml_1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>22.tablas_datos_xml_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23.tablas_datos_xml_2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>23.tablas_datos_xml_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24.campos_calculados.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24.campos_calculados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25.moviendo_tablas_entre_filegroups.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>25.moviendo_tablas_entre_filegroups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26.persisted_en_campos_calculados.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>26.persisted_en_campos_calculados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27.particion_horizontal_tablas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>27.particion_horizontal_tablas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28.particion_vertical_tablas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>28.particion_vertical_tablas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29.particion_horizontal_tabla_existente.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>29.particion_horizontal_tabla_existente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30.modificación_tablas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30.modificación_tablas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31.modificación_tablas_2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>31.modificación_tablas_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="32.dynamic_data_masking.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>32.dynamic_data_masking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="33.identity.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>33.identity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="34.identity_caso_practico.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>34.identity_caso_practico.sql</FullPath>
+        </FileNode>
+        <FileNode Name="35.tablas_temporales.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>35.tablas_temporales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="36.file_stream_file_table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>36.file_stream_file_table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="37.graph_tables.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>37.graph_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="38.variables_tipo_tabla.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>38.variables_tipo_tabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="39.insertar_imágenes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>39.insertar_imágenes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="40.índices.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>40.índices.sql</FullPath>
+        </FileNode>
+        <FileNode Name="41.índices_modificación.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>41.índices_modificación.sql</FullPath>
+        </FileNode>
+        <FileNode Name="42.índices_eliminación.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>42.índices_eliminación.sql</FullPath>
+        </FileNode>
+        <FileNode Name="43.índices_ejercicio.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>43.índices_ejercicio.sql</FullPath>
+        </FileNode>
+        <FileNode Name="44.índices_particionados.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>44.índices_particionados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="45.índices_include.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>45.índices_include.sql</FullPath>
+        </FileNode>
+        <FileNode Name="46.índices_vistas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>46.índices_vistas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="47.índices_columnstore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>47.índices_columnstore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="48.índices_reconstrucción.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>48.índices_reconstrucción.sql</FullPath>
+        </FileNode>
+        <FileNode Name="49.insertar_registros.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>49.insertar_registros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="50.insertar_varios_registros_a_la_vez.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>50.insertar_varios_registros_a_la_vez.sql</FullPath>
+        </FileNode>
+        <FileNode Name="51.insertar_pdf.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>51.insertar_pdf.sql</FullPath>
+        </FileNode>
+        <FileNode Name="52.actualizar_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>52.actualizar_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="53.eliminar_registros.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>53.eliminar_registros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="54.encriptar_desencriptar_datos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>54.encriptar_desencriptar_datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="55.secuencias.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>55.secuencias.sql</FullPath>
+        </FileNode>
+        <FileNode Name="56.vistas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>56.vistas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="57.vistas_en_excel.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>57.vistas_en_excel.sql</FullPath>
+        </FileNode>
+        <FileNode Name="58.importar_datos_de_excel_a_SQLServer.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>58.importar_datos_de_excel_a_SQLServer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="59.importar_datos_de_csv_a_SQLServer.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>59.importar_datos_de_csv_a_SQLServer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="60.select_teoría.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>60.select_teoría.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
